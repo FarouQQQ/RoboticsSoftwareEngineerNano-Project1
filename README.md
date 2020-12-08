@@ -7,7 +7,7 @@ Build a 3D enviroment to be used in future projects and applications
 - change directory to build file :$cd build
 - Run cmake : $cmake ../
 - Run make : $make
-- export the plugin bath with the location of the build file :
+- export the plugin path with the location of the build file :
 
   $export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/{directory}/build
 - change directories to the world folder
